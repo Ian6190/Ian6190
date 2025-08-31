@@ -7,5 +7,5 @@
 - <b>Deploying Active Directory in Azure</b>
   - [Setting up Active Directory and Domain](https://github.com/Ian6190/configure-ad)
   - [Adding Users and Remote Access](https://github.com/Ian6190/azure-network-protocols)
-- <b>File shares and Permissions</b>
-(https://github.com/Ian6190/file-shares)
+- <b>Configuring Files Shares and Permissions in Active Directory</b>
+ - [File Shares & Permissions](https://github.com/Ian6190/file-shares)   
