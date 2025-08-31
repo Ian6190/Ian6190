@@ -5,6 +5,6 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Help Desk Example](https://github.com/Ian6190/osticket-prereqs)
 - <b>Deploying Active Directory in Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Ian6190/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Ian6190/azure-network-protocols)
+  - [Setting up Active Directory and Domain](https://github.com/Ian6190/configure-ad)
+  - [Adding Users and Remote Access](https://github.com/Ian6190/azure-network-protocols)
 
